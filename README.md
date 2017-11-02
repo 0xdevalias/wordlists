@@ -9,7 +9,7 @@ A place to store my own wordlists, and link to others that are useful
     * Massive collection of wordlists.. but comes in pretty weighty (~320mb + git overheads) when you only end up using a couple of the lists..
     * I mostly seem to end up using https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web_Content
 
-## Drek / WatchTower
+## Drek / WatchTower (Static Code Analysis)
 
 * https://github.com/chrisallenlane/drek
     * "A static-code-analysis tool for performing security-focused code reviews. It enables an auditor to swiftly map the attack-surface of a large application, with an emphasis on identifying development anti-patterns and footguns."
@@ -21,3 +21,9 @@ A place to store my own wordlists, and link to others that are useful
     * "(old, deprecated) : Watchtower is a Static Code Analysis tool designed to assist security auditors who are tasked with performing manual code reviews. It is platform- and language-agnostic.""
     * https://github.com/BishopFox/watchtower(fork, updated  signatures)
         * https://github.com/BishopFox/watchtower/compare/c148caf4867d7eb5ddfa279d8e3186852f66e7f4...BishopFox:master seems to show the new things that were added
+* Other potential sources of useful material
+    * https://stackoverflow.com/questions/3115559/exploitable-php-functions
+    * This may not be the most up to date source, but apparently RIPS maintained some good lists of sources/sinks
+      * https://github.com/robocoder/rips-scanner/blob/master/config/sources.php
+      * https://github.com/robocoder/rips-scanner/blob/master/config/sinks.php
+      * https://sourceforge.net/projects/rips-scanner/files/ (download latest version and grab them from there)
