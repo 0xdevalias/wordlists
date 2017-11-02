@@ -19,7 +19,7 @@ A place to store my own wordlists, and link to others that are useful
         * https://github.com/schristiaens/drek-signatures: Fork with some extra additions
 * https://github.com/chrisallenlane/watchtower
     * "(old, deprecated) : Watchtower is a Static Code Analysis tool designed to assist security auditors who are tasked with performing manual code reviews. It is platform- and language-agnostic.""
-    * https://github.com/BishopFox/watchtower(fork, updated  signatures)
+    * https://github.com/BishopFox/watchtower (fork, updated signatures)
         * https://github.com/BishopFox/watchtower/compare/c148caf4867d7eb5ddfa279d8e3186852f66e7f4...BishopFox:master seems to show the new things that were added
 * Other potential sources of useful material
     * https://stackoverflow.com/questions/3115559/exploitable-php-functions
