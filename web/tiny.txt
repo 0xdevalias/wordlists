@@ -1,0 +1,35 @@
+# Generic
+robots.txt
+
+# Swagger and similar
+api-docs
+docs
+
+# Microservices/API's
+# eg. https://github.com/steve-gray/swagger-service-skeleton
+meta/status
+meta/version
+
+# Spring Boot Actuator (https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-endpoints.html)
+actuator
+auditevents
+autoconfig
+beans
+configprops
+dump
+env
+flyway
+health
+info
+loggers
+liquibase
+metrics
+mappings
+shutdown
+trace
+
+# Spring MVC
+docs
+heapdump
+jolokai
+logfile
