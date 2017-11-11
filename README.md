@@ -10,6 +10,11 @@ A place to store my own wordlists, and link to others that are useful
     * https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web_Content
     * https://github.com/danielmiessler/SecLists/tree/master/Fuzzing
 
+## Big List of Naughty Strings
+
+* https://github.com/minimaxir/big-list-of-naughty-strings
+    * "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data."
+
 ## Drek / WatchTower (Static Code Analysis)
 
 * https://github.com/chrisallenlane/drek
