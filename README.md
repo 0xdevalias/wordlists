@@ -62,3 +62,5 @@ A place to store my own wordlists, and link to others that are useful
 
 * https://github.com/swisskyrepo/PayloadsAllTheThings
     * "A list of useful payloads and bypass for Web Application Security and Pentest/CTF"
+* https://github.com/first20hours/google-10000-english
+    * "This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus."
