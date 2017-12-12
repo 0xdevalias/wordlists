@@ -10,6 +10,24 @@ A place to store my own wordlists, and link to others that are useful
     * https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web_Content
     * https://github.com/danielmiessler/SecLists/tree/master/Fuzzing
 
+## Commonspeak
+
+* https://github.com/pentester-io/commonspeak
+    * "Content discovery wordlists generated using BigQuery"
+    * https://pentester.io/commonspeak-bigquery-wordlists/
+
+## Subpop Results
+
+* https://github.com/skooch/subpop-results
+    "Results from the latest Rapid7 Sonar FDNS processed by subpop for use with tools"
+* https://github.com/bitquark/dnspop : Analysis of DNS records to find popular trends
+
+## Project Sonar / Censys
+
+* https://www.censys.io/
+* https://scans.io/
+* https://github.com/rapid7/sonar/wiki
+
 ## Big List of Naughty Strings
 
 * https://github.com/minimaxir/big-list-of-naughty-strings
@@ -33,3 +51,13 @@ A place to store my own wordlists, and link to others that are useful
       * https://github.com/robocoder/rips-scanner/blob/master/config/sources.php
       * https://github.com/robocoder/rips-scanner/blob/master/config/sinks.php
       * https://sourceforge.net/projects/rips-scanner/files/ (download latest version and grab them from there)
+
+## Password Breaches
+
+* https://github.com/zxsecurity/steamer
+    * "For importing, searching, and managing public password breach data"
+
+## Miscellaneous
+
+* https://github.com/swisskyrepo/PayloadsAllTheThings
+    * "A list of useful payloads and bypass for Web Application Security and Pentest/CTF"
