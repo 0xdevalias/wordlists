@@ -19,8 +19,9 @@ A place to store my own wordlists, and link to others that are useful
 ## Subpop Results
 
 * https://github.com/skooch/subpop-results
-    "Results from the latest Rapid7 Sonar FDNS processed by subpop for use with tools"
-* https://github.com/bitquark/dnspop : Analysis of DNS records to find popular trends
+    * "Results from the latest Rapid7 Sonar FDNS processed by subpop for use with tools"
+* https://github.com/bitquark/dnspop
+    * "Analysis of DNS records to find popular trends"
 
 ## Project Sonar / Censys
 
