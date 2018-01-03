@@ -23,6 +23,11 @@ A place to store my own wordlists, and link to others that are useful
 * https://github.com/bitquark/dnspop
     * "Analysis of DNS records to find popular trends"
 
+## Certificate Transparency Subdomains
+
+* https://github.com/internetwache/CT_subdomains
+    * "An hourly updated list of subdomains gathered from certificate transparency logs"
+
 ## Project Sonar / Censys
 
 * https://www.censys.io/
