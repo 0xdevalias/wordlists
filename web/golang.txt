@@ -1,0 +1,5 @@
+# http://mmcloughlin.com/posts/your-pprof-is-showing
+debug/pprof/profile
+debug/pprof/heap
+debug/pprof/goroutine?debug=1
+debug/pprof/trace
