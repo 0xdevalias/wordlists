@@ -63,7 +63,7 @@ A place to store my own wordlists, and link to others that are useful
 * https://github.com/zxsecurity/steamer
     * "For importing, searching, and managing public password breach data"
 
-## Miscellaneous
+## Miscellaneous / Unsorted
 
 * https://github.com/swisskyrepo/PayloadsAllTheThings
     * "A list of useful payloads and bypass for Web Application Security and Pentest/CTF"
@@ -71,3 +71,10 @@ A place to store my own wordlists, and link to others that are useful
     * "This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus."
 * https://udger.com/resources/ua-list
     * "Udger database includes detailed information about ever single user agent and operating system"
+* https://github.com/carlospolop/Auto_Wordlists
+  * > Auto_Wordlists
+  * > This repo will generate wordlist in 3 different ways:
+    > 
+    > * The wordlist `wordlists/trusted_resolvers.txt` are the IPs of DNS servers that, apparently, can be trusted. It's generated every 8 hours.
+    > * The wordlist `wordlists/ghdb.json.txt` is the google hacking database in JSON format. It's generated once a week.
+    > * The rest of the wordlists are web fuzzing/discovery wordlists. They are generated once a week.
